@@ -1,0 +1,80 @@
+{
+  "name": "museumf",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.1",
+    "axios": "^1.7.6",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.13",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.9.0",
+    "eslint-plugin-react": "^7.35.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "globals": "^15.9.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "vite": "^5.4.1",
+
+    
+
+      "@emotion/react": "^11.13.3",
+      "@emotion/styled": "^11.13.0",
+      "@mui/material": "^5.16.7",
+      "@testing-library/jest-dom": "^5.17.0",
+      "@testing-library/react": "^13.4.0",
+      "@testing-library/user-event": "^13.5.0",
+      "antd": "^5.20.2",
+      "any-base": "^1.1.0",
+      "axios": "^1.7.5",
+      "buffer": "^6.0.3",
+      "compromise": "^14.14.0",
+      "cors": "^2.8.5",
+      "crypto": "^1.0.1",
+      "crypto-browserify": "^3.12.0",
+      "fs": "^0.0.1-security",
+      "jimp": "^0.22.12",
+  
+      "mysql2": "^3.11.0",
+      "natural": "^8.0.1",
+      "net": "^1.0.2",
+      "node-mailjet": "^6.0.5",
+      "os": "^0.1.2",
+      "path-browserify": "^1.0.1",
+      "qrcode": "^1.5.4",
+      "razorpay": "^2.9.4",
+      "react": "^18.3.1",
+      "react-dom": "^18.3.1",
+      "react-phone-input-2": "^2.15.1",
+      "react-scripts": "5.0.1",
+      "react-spinners": "^0.14.1",
+      "sharp": "^0.33.5",
+      "stream-browserify": "^3.0.0",
+      "tls": "^0.0.1",
+      "url": "^0.11.4",
+      "util": "^0.12.5",
+      "web-vitals": "^2.1.4"
+    
+
+
+  }
+}
